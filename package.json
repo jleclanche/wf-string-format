@@ -1,0 +1,23 @@
+{
+	"name": "wf-string-format",
+	"version": "1.0.0",
+	"description": "Warframe-syntax string formatting",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jleclanche/wf-string-format.git"
+	},
+	"author": "Jerome Leclanche <jerome@leclan.ch>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jleclanche/wf-string-format/issues"
+	},
+	"homepage": "https://github.com/jleclanche/wf-string-format#readme",
+	"devDependencies": {
+		"typescript": "^4.1.3"
+	},
+	"dependencies": {
+		"wf-string-format": "^1.0.0"
+	}
+}
