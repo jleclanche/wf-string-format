@@ -16,8 +16,5 @@
 	"homepage": "https://github.com/jleclanche/wf-string-format#readme",
 	"devDependencies": {
 		"typescript": "^4.1.3"
-	},
-	"dependencies": {
-		"wf-string-format": "^1.0.0"
 	}
 }
